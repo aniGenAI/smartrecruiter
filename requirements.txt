@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+psycopg2-binary
+pydantic
+python-dotenv
+qdrant-client
+requests
+ollama
+email-validator
+requests
+sentence-transformers
+pypdf
+python-multipart
