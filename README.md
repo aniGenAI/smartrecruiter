@@ -37,12 +37,10 @@ Smart Recruiter GenAI is an AI-powered resume screening and hiring system built 
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd smartRecruiter/GenAI
    ```
 
 2. **Set up Python environment**:
    ```bash
-   cd backend
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
