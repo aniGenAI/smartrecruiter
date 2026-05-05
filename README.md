@@ -124,6 +124,13 @@ backend/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Copyright
+
+© 2026 Anirban Das
+
+Email: anirban.techlead@gmail.com  
+Phone: +91 9038873072
+
 ## Support
 
 For questions or issues, please open an issue in the repository or contact the development team.
